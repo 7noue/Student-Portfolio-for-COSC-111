@@ -3,14 +3,11 @@
 
 ---
 
-## 📌 Group Information
-
-### **Members**
-* De Silva, Krisha
-* Malinis, Johnbert
-* Mayor, Mark Aaron A.
-* Monzon, Denys
-* Pula, Henry Luis
+## 📌 Mark Aaron A. Mayor
+  
+### **INFORMATION**
+* 21 Years Old
+* August 30, 2004
 
 ---
 
@@ -53,6 +50,24 @@
 <br>
 
 ### **⚡ Activity #5: [Insert Topic Here]**
+* **Date:** [Insert Date]
+* **Leader:** [Insert Name]
+* **Objectives:**
+  1. [Objective 1]
+  2. [Objective 2]
+
+<br>
+
+### **⚡ Activity #6: [Insert Topic Here]**
+* **Date:** [Insert Date]
+* **Leader:** [Insert Name]
+* **Objectives:**
+  1. [Objective 1]
+  2. [Objective 2]
+
+<br>
+
+### **⚡ Activity #7: [Insert Topic Here]**
 * **Date:** [Insert Date]
 * **Leader:** [Insert Name]
 * **Objectives:**
